@@ -85,7 +85,7 @@ return {
 	title = 'The Finals',
 	navigation = {
 		{
-			file = 'TGM25 Alliance Bundle 1.jpg',
+			file = 'ENVY Bootcamp.jpg',
 			title = 'Teams',
 			link = 'Portal:Teams',
 			count = {
@@ -94,7 +94,7 @@ return {
 			},
 		},
 		{
-			file = 'TGM25 Team Secret Bundle 1.jpg',
+			file = 'NTMR TGM25.jpg',
 			title = 'Players',
 			link = 'Portal:Players',
 			count = {
@@ -103,7 +103,7 @@ return {
 			},
 		},
 		{
-			file = 'Valorant-champions-trophy-2024-2.jpeg',
+			file = 'TGM25 Trophy.jpg',
 			title = 'Tournaments',
 			link = 'Portal:Tournaments',
 			count = {
@@ -121,7 +121,7 @@ return {
 			},
 		},
 		{
-			file = 'Las Vegas Stadium Overview The Finals.jpg',
+			file = 'Seoul Map.png',
 			title = 'Arenas',
 			link = 'Portal:Arenas',
 		},
